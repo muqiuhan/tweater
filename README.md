@@ -1,0 +1,1 @@
+An weather app written in ClojureScript + Tauri
