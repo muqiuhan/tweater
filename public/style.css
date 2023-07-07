@@ -77,7 +77,6 @@ body {
 
 .weather-box img {
     width: 60%;
-    margin-top: 30%;
 }
 
 .weather-box .temperature {
@@ -163,7 +162,7 @@ body {
     opacity: 0;
 }
 
-.fade-in {
+.fadeIn {
     animation: 0.5s fadeIn forwards;
     animation-delay: 0.5s;
 }
