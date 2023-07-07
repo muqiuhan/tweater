@@ -1,7 +1,7 @@
 {
-  "name": "tauri-app",
+  "name": "tweater",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "dev": "shadow-cljs watch app",
     "build": "shadow-cljs release app",
